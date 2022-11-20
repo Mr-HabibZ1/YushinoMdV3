@@ -39,15 +39,15 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285172446692', 'levi 😸', true],
-['6285757256591', 'qory 😸', true]
+['6282160795453', 'imam habib 😸', true],
+['6282182533461', 'I.habib 😸', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6282131369002'
-global.nomorown = '6285172446692'
-global.nomorown1 = '6285172446692'
-global.nomorown2 = '6285757256591'
+global.nomorbot = '6287893575487'
+global.nomorown = '6282160795453'
+global.nomorown1 = '6282182533461'
+global.nomorown2 = '6287893575487'
 global.nomorwa = '0'
 
 
@@ -69,8 +69,8 @@ global.stickauth = `© 𝚅𝙸𝙲𝚃𝙾𝚁 𝙱𝙾𝚃`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'levi 😸'
-global.nameown2 = 'qory 😸'
+global.nameown1= 'imam habib 😸'
+global.nameown2 = 'i.habib 😸'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1'
 global.lynk = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1'
@@ -84,12 +84,12 @@ global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '085172446692'
-global.povo = '-'
-global.pgopay = '085172446692'
+global.pdana = '082160795453'
+global.povo = '082160795453'
+global.pgopay = '082160795453'
 global.plinkaja = '-' //link aja
-global.ppulsa = '0813 6128 1833'
-global.ppulsa2 = '083838186170'
+global.ppulsa = '0821 6079 5453'
+global.ppulsa2 = '-'
 global.psaweria = '-'
 
 
