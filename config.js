@@ -72,14 +72,15 @@ global.wibb = `${wktuwib}`
 global.nameown1= 'imam habib 😸'
 global.nameown2 = 'i.habib 😸'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.Linkgc = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1'
-global.lynk = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1'
+global.Linkgc = 'https://chat.whatsapp.com/E0vOxKBXgjw7BsCjFKogxd'
+global.lynk = 'https://chat.whatsapp.com/E0vOxKBXgjw7BsCjFKogxd'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/leviatnansyah?igshid=YmMyMTA2M2Y='
+global.sig = 'https://instagram.com/habibimampro?igshid=YmMyMTA2M2Y='
 global.sgh = 'https://github.com/victorbot22' //github
-global.sgc = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/E0vOxKBXgjw7BsCjFKogxd3
+' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g'
 
@@ -304,14 +305,14 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://instagram.com/leviatnansyah?igshid=YmMyMTA2M2Y="
+global.urlnya = "https://instagram.com/habibimampro?igshid=YmMyMTA2M2Y="
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 851-7244-6692'
+global.phn = '+62 821-6079-5453'
 
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.fsizedoc = '99999999999999'
+global.fsizedoc = '99999999999999' 10TB
 global.fpagedoc = '999'
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
